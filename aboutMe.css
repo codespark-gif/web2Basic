@@ -1,5 +1,6 @@
 h1{
     color: #ff0000;
+    border: 3px solid black;
 }
 
 h4{
@@ -7,5 +8,12 @@ h4{
 }
 
 li{
-    color: #00ff00;
+    color: #00ff00  ;
 }
+
+body{
+    background: pink;
+     /*  background:url(https://i.pinimg.com/736x/bd/18/6e/bd186e376769c08e5445810c68d6751f.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; */
+} 

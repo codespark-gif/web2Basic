@@ -1,0 +1,13 @@
+body {
+    background: orange;
+}
+
+#task5 {
+    background: red;
+}
+.task {
+    text-decoration: line-through;
+}
+.task2 {
+    text-decoration: underline;
+}
