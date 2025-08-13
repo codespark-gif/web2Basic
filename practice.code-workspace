@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../Course assignments"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../CSS CRASH COURSE"
+		},
+		{
+			"path": "../html-css-course - Copy"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WEB3BRIDGECXIII"
+	}
+}
